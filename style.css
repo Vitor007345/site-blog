@@ -1,4 +1,71 @@
+body{
+    background-color:blanchedalmond;
+}
+
+header{
+    height: 30%;
+    width: 100%;
+    
+    
+    
+}
+main{
+    height: 70%;
+    width: 80%;
+    float: left;
+    
+}
+aside{
+    margin-top: 5%;
+    height: 70%;
+    width: 15%;
+    float:left;
+}
+
+
+nav.caixa-menuprincipal{
+    width: 100%;
+    float: right;
+    background-color: green;
+    border: gray solid 0.2rem;
+    font-size: 30px;
+    
+}
+ul.caixa-menuprincipal{
+    width: 88%;
+    height: 100%;
+    margin-top: 0.7%;
+    float: left;
+    margin-left: 10%;
+    
+    
+}
+li.caixa-menuprincipal{
+    height: 100%;
+    width: 24%;
+    float: left;
+    color: green;
+    
+    
+    
+
+}
+
+
+
 img{
     width: 150px;
     height: 150px;
+}
+
+th{
+    background-color: gray;
+    color: white;
+}
+tr{
+    background-color: azure;
+}
+caption{
+    font-weight: bolder;
+    font-size: 1.6rem;
 }
